@@ -231,9 +231,9 @@
     js-tokens "^4.0.0"
 
 "@babel/parser@^7.1.0", "@babel/parser@^7.14.5", "@babel/parser@^7.15.0", "@babel/parser@^7.7.2":
-  version "7.15.0"
-  resolved "https://registry.yarnpkg.com/@babel/parser/-/parser-7.15.0.tgz#b6d6e29058ca369127b0eeca2a1c4b5794f1b6b9"
-  integrity sha512-0v7oNOjr6YT9Z2RAOTv4T9aP+ubfx4Q/OhVtAet7PFDt0t9Oy6Jn+/rfC6b8HJ5zEqrQCiMxJfgtHpmIminmJQ==
+  version "7.15.2"
+  resolved "https://registry.yarnpkg.com/@babel/parser/-/parser-7.15.2.tgz#08d4ffcf90d211bf77e7cc7154c6f02d468d2b1d"
+  integrity sha512-bMJXql1Ss8lFnvr11TZDH4ArtwlAS5NG9qBmdiFW2UHHm6MVoR+GDc5XE2b9K938cyjc9O6/+vjjcffLDtfuDg==
 
 "@babel/plugin-syntax-async-generators@^7.8.4":
   version "7.8.4"
@@ -378,10 +378,10 @@
     minimatch "^3.0.4"
     strip-json-comments "^3.1.1"
 
-"@hlutir/common@^0.0.2":
-  version "0.0.2"
-  resolved "https://registry.yarnpkg.com/@hlutir/common/-/common-0.0.2.tgz#cd01378ea3bb3f42071989d6c1ab3ac65a74c055"
-  integrity sha512-UMPYapZZbFF/tZPp2MeiSez57847Te+J9CsEeHU3CGCQJXpDPHj7/2dSa80veKX50+EKkY1s9c2apKGreWMoLQ==
+"@hlutir/common@^0.0.6":
+  version "0.0.6"
+  resolved "https://registry.yarnpkg.com/@hlutir/common/-/common-0.0.6.tgz#ca8b39c63cf1fe2292b74ef4632d96744e831536"
+  integrity sha512-iwXQmq9to+L0WODWeHgSx9+qWTqajb9tiFWgQxG/d0v8b5A+IOJKb8mVJLday48RtzB73fsbazPaz1lbwR16hw==
   dependencies:
     "@nestjs/common" "^8.0.0"
     "@nestjs/core" "^8.0.0"
@@ -899,9 +899,9 @@
   integrity sha512-YATxVxgRqNH6nHEIsvg6k2Boc1JHI9ZbH5iWFFv/MTkchz3b1ieGDa5T0a9RznNdI0KhVbdbWSN+KWWrQZRxTw==
 
 "@types/node@*", "@types/node@^16.0.0":
-  version "16.4.12"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-16.4.12.tgz#961e3091f263e6345d2d84afab4e047a60b4b11b"
-  integrity sha512-zxrTNFl9Z8boMJXs6ieqZP0wAhvkdzmHSxTlJabM16cf5G9xBc1uPRH5Bbv2omEDDiM8MzTfqTJXBf0Ba4xFWA==
+  version "16.4.13"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-16.4.13.tgz#7dfd9c14661edc65cccd43a29eb454174642370d"
+  integrity sha512-bLL69sKtd25w7p1nvg9pigE4gtKVpGTPojBFLMkGHXuUgap2sLqQt2qUnqmVCDfzGUL0DRNZP+1prIZJbMeAXg==
 
 "@types/node@^14.0.26":
   version "14.17.9"
@@ -2009,9 +2009,9 @@ ee-first@1.1.1:
   integrity sha1-WQxhFWsK4vTwJVcyoViyZrxWsh0=
 
 electron-to-chromium@^1.3.793:
-  version "1.3.796"
-  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.3.796.tgz#bd74a4367902c9d432d129f265bf4542cddd9f54"
-  integrity sha512-agwJFgM0FUC1UPPbQ4aII3HamaaJ09fqWGAWYHmzxDWqdmTleCHyyA0kt3fJlTd5M440IaeuBfzXzXzCotnZcQ==
+  version "1.3.799"
+  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.3.799.tgz#6e9911b25e7ecd5aa1e54dcb68f82a3e02d00f09"
+  integrity sha512-V2rbYWdGvSqrg+95KjkVuSi41bGfrhrOzjl1tSi2VLnm0mRe3FsSvhiqidSiSll9WiMhrQAhpDcW/wcqK3c+Yw==
 
 emittery@^0.8.1:
   version "0.8.1"
@@ -2616,9 +2616,9 @@ globby@^11.0.3:
     slash "^3.0.0"
 
 graceful-fs@^4.1.2, graceful-fs@^4.1.6, graceful-fs@^4.2.0, graceful-fs@^4.2.4:
-  version "4.2.6"
-  resolved "https://registry.yarnpkg.com/graceful-fs/-/graceful-fs-4.2.6.tgz#ff040b2b0853b23c3d31027523706f1885d76bee"
-  integrity sha512-nTnJ528pbqxYanhpDYsi4Rd8MAeaBA67+RZ10CM1m3bTAVFEDcd5AuA4a6W5YkGZ1iNXHzZz8T6TBKLeBuNriQ==
+  version "4.2.8"
+  resolved "https://registry.yarnpkg.com/graceful-fs/-/graceful-fs-4.2.8.tgz#e412b8d33f5e006593cbd3cee6df9f2cebbe802a"
+  integrity sha512-qkIilPUYcNhJpd33n0GBXTB1MMPp14TxEsEs0pTrsSVucApsYzW5V+Q8Qxhik6KU3evy+qkAAowTByymK0avdg==
 
 has-flag@^3.0.0:
   version "3.0.0"
@@ -3816,10 +3816,10 @@ node-modules-regexp@^1.0.0:
   resolved "https://registry.yarnpkg.com/node-modules-regexp/-/node-modules-regexp-1.0.0.tgz#8d9dbe28964a4ac5712e9131642107c71e90ec40"
   integrity sha1-jZ2+KJZKSsVxLpExZCEHxx6Q7EA=
 
-node-mosquitto-dynsec@^1.0.2:
-  version "1.0.2"
-  resolved "https://registry.yarnpkg.com/node-mosquitto-dynsec/-/node-mosquitto-dynsec-1.0.2.tgz#80b672d964d037d0beaaa93ce7b57c02613586fd"
-  integrity sha512-jQ+4uZXREJlF2ZE6gzLjOl9BgDZLDGMTkhHUAsf34zLZjC67UwVys332YbYxZRmN3s6RW3Ga9RE89lmrpcEj+Q==
+node-mosquitto-dynsec@1.0.5:
+  version "1.0.5"
+  resolved "https://registry.yarnpkg.com/node-mosquitto-dynsec/-/node-mosquitto-dynsec-1.0.5.tgz#a097f135cb0de7370d8f5903b24b34341107c1d4"
+  integrity sha512-0CcDb9fTJYo97SpGXdZ36/UEwGELb07wYmB/l9JssOpMQkGJHGVBAd/3M298pjWAM8OcsyfzIy8GYXUTUDltnw==
   dependencies:
     mqtt "^4.2.8"
 
